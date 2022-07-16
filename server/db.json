@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1241,
+      "name": "Stephan",
+      "age": 68,
+      "email": "stephan@bigbang.theory",
+      "password": "stephan",
+      "job": "Clerk",
+      "deptno": 20
+    },
+    {
+      "id": 1242,
+      "name": "Proton",
+      "age": 80,
+      "email": "profproton@bigbang.theory",
+      "password": "profproton",
+      "job": "Analyst",
+      "deptno": 50
+    },
+    {
+      "name": "Laxman",
+      "email": "laxman@gmail.com",
+      "age": 26,
+      "password": "asdfgh",
+      "job": "cleark",
+      "deptno": 30,
+      "id": 1243
+    },
+    {
+      "name": "asjhd",
+      "email": "sahitarts20@gmail.com",
+      "age": 23,
+      "password": "asdfgh",
+      "job": "cleasd",
+      "deptno": 20,
+      "id": 1244
+    },
+    {
+      "name": "Jayesh",
+      "email": "jayesh@gmail.com",
+      "age": 24,
+      "password": "qwerty",
+      "job": "clerk",
+      "deptno": 20,
+      "id": 1245
+    }
+  ]
+}
